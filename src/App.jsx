@@ -25,6 +25,5 @@ function App() {
     </>
   )
 }
-ksaj
 
 export default App
